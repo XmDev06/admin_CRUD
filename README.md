@@ -1,6 +1,7 @@
 
 ## CRUD for developers
 
+You can easily create an admin panel using [admin CRUD](https://github.com/humoyunmirzo0511/admin_CRUD/). And now you can proceed with your smaller projects without any knowladges about Backend.
 
 ## Installation
 1. clone from my repository; 
